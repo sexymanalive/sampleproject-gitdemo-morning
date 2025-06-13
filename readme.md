@@ -22,4 +22,7 @@ git remote -v
 gh auth status
 gh repo create sampleproject-gitdemo-morning  --bublic
 git remote add origin url 
+
+
+# git branch (different version of git project )
 ```
