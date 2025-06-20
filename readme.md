@@ -42,5 +42,11 @@ git pull
 git pull origin branch-name 
 
 # check status of your git 
-git status 
+git status
+
+
+git stash 
+git stash list 
+git stash pop # unstash
+git stash apply stash-id 
 ```
