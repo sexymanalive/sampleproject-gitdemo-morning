@@ -44,7 +44,7 @@ git pull origin branch-name
 # check status of your git 
 git status
 
-
+# to temporarily drop file in stash, so we can do other operations 
 git stash 
 git stash list 
 git stash pop # unstash
