@@ -36,4 +36,11 @@ git checkout development
 # modify your project and push your code 
 
 # keoKAY
+
+
+git pull 
+git pull origin branch-name 
+
+# check status of your git 
+git status 
 ```
