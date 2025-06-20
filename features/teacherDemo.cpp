@@ -1,5 +1,10 @@
 #include<iostream> 
 using namespace std; 
+class Teacher{
+    private: 
+        string name; 
+        int age; 
+}; 
 
 class Teacher{
     public: 
